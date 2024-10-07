@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3\\aula3\\aula3\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Aula3\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Aula3\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:10:52.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

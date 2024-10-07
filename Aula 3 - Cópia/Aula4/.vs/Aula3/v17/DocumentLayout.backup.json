@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Migrations\\20241007173131_CreateCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Aula3\\Migrations\\20241007173131_CreateCourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\data\\aula3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\data\\aula3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Aula3\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Aula3\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:32:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241007173131_CreateCourses.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Migrations\\20241007173131_CreateCourses.cs",
+              "RelativeDocumentMoniker": "Aula3\\Migrations\\20241007173131_CreateCourses.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Migrations\\20241007173131_CreateCourses.cs",
+              "RelativeToolTip": "Aula3\\Migrations\\20241007173131_CreateCourses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:31:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aula3Context.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Data\\Aula3Context.cs",
+              "RelativeDocumentMoniker": "Aula3\\Data\\Aula3Context.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Data\\Aula3Context.cs",
+              "RelativeToolTip": "Aula3\\Data\\Aula3Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:22:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Aula3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Category.cs",
+              "RelativeToolTip": "Aula3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:21:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Aula3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Course.cs",
+              "RelativeToolTip": "Aula3\\Models\\Course.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:19:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Aula3\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Aula3\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:10:52.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
