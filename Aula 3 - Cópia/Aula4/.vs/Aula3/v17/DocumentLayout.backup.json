@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 3 - c\u00F3pia\\aula4\\aula3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AFD639B-EDA0-4728-B85C-5F28EEBDFA3D}|Aula3\\Aula3.csproj|solutionrelative:aula3\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Data\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Aula3\\Data\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Data\\DBInitializer.cs",
+              "RelativeToolTip": "Aula3\\Data\\DBInitializer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:33:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Aula3\\Controllers\\CoursesController.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "20241007173131_CreateCourses.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Migrations\\20241007173131_CreateCourses.cs",
               "RelativeDocumentMoniker": "Aula3\\Migrations\\20241007173131_CreateCourses.cs",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Aula3Context.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Data\\Aula3Context.cs",
               "RelativeDocumentMoniker": "Aula3\\Data\\Aula3Context.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Aula3\\Models\\Category.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Aula3\\Models\\Course.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3 - C\u00F3pia\\Aula4\\Aula3\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "Aula3\\Views\\Categories\\Details.cshtml",
