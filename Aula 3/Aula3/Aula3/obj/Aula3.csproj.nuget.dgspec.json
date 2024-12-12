@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj": {}
+    "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj": {
+    "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj",
+        "projectUniqueName": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj",
         "projectName": "Aula3",
-        "projectPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj",
-        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\obj\\",
+        "projectPath": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\Aula3.csproj",
+        "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula 3\\Aula3\\Aula3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

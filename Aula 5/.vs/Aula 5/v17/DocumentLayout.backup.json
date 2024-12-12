@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 5\\aula 5\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|solutionrelative:aula 5\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 5\\aula 5\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|solutionrelative:aula 5\\models\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 5\\aula 5\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|solutionrelative:aula 5\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C478DB88-C1A9-4EB8-B5FA-B8FCA3E60FED}|Aula 5\\Aula 5.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula 5\\aula 5\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 5\\Aula 5\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "Aula 5\\Views\\Books\\Create.cshtml",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BookViewModel.cs",
               "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 5\\Aula 5\\Models\\BookViewModel.cs",
               "RelativeDocumentMoniker": "Aula 5\\Models\\BookViewModel.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 5\\Aula 5\\Models\\BookViewModel.cs*",
-              "RelativeToolTip": "Aula 5\\Models\\BookViewModel.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula 5\\Aula 5\\Models\\BookViewModel.cs",
+              "RelativeToolTip": "Aula 5\\Models\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T16:32:05.615Z",
               "EditorCaption": ""

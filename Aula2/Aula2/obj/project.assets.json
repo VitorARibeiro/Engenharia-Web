@@ -5569,19 +5569,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vitor\\.nuget\\packages\\": {}
+    "C:\\Users\\Vitor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Aula2.csproj",
+      "projectUniqueName": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Aula2.csproj",
       "projectName": "Aula2",
-      "projectPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Aula2.csproj",
-      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\obj\\",
+      "projectPath": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Aula2.csproj",
+      "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

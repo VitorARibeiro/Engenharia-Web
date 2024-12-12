@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\",
+  "WorkspaceRootPath": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\controllers\\examplecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\controllers\\examplecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\controllers\\examplecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\views\\examplecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\views\\examplecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\views\\examplecontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\aula2\\aula2\\views\\examplecontroller1\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|c:\\users\\vitor\\documents\\githubclones\\engenharia-web\\aula2\\aula2\\views\\examplecontroller1\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A71B31D-DBDD-4810-B18B-EBEFA5DE7B61}|Aula2\\Aula2.csproj|solutionrelative:aula2\\views\\examplecontroller1\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -44,87 +44,81 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Aula2\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\PersonController.cs",
               "RelativeToolTip": "Aula2\\Controllers\\PersonController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:53:39.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:53:39.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Models\\Person.cs",
               "RelativeDocumentMoniker": "Aula2\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Models\\Person.cs",
               "RelativeToolTip": "Aula2\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:51:43.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:51:43.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\Person\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\Person\\Create.cshtml",
               "RelativeDocumentMoniker": "Aula2\\Views\\Person\\Create.cshtml",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\Person\\Create.cshtml",
               "RelativeToolTip": "Aula2\\Views\\Person\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T17:56:22.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:56:22.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ExampleController1.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\ExampleController1.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\ExampleController1.cs",
               "RelativeDocumentMoniker": "Aula2\\Controllers\\ExampleController1.cs",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\ExampleController1.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Controllers\\ExampleController1.cs",
               "RelativeToolTip": "Aula2\\Controllers\\ExampleController1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:17:45.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:17:45.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index2.cshtml",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index2.cshtml",
               "RelativeDocumentMoniker": "Aula2\\Views\\ExampleController1\\Index2.cshtml",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index2.cshtml",
               "RelativeToolTip": "Aula2\\Views\\ExampleController1\\Index2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T17:32:17.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:32:17.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula2\\Views\\ExampleController1\\Index.cshtml",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\ExampleController1\\Index.cshtml",
               "RelativeToolTip": "Aula2\\Views\\ExampleController1\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T17:18:39.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T17:18:39.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Aula2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Aula2\\Aula2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GithubClones\\Engenharia-Web\\Aula2\\Aula2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Aula2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
