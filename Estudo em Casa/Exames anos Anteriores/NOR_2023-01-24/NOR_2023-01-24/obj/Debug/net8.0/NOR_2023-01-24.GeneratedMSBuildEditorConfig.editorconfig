@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NOR_2023_01_24
+build_property.RootNamespace = NOR_2023_01_24
+build_property.ProjectDir = C:\Users\vitor\Documents\GitHub\Engenharia-Web\Estudo em Casa\Exames anos Anteriores\NOR_2023-01-24\NOR_2023-01-24\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\vitor\Documents\GitHub\Engenharia-Web\Estudo em Casa\Exames anos Anteriores\NOR_2023-01-24\NOR_2023-01-24
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Proprietarios/Listagem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcHJpZXRhcmlvc1xMaXN0YWdlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Veiculos/Adicionar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcQWRpY2lvbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vitor/Documents/GitHub/Engenharia-Web/Estudo em Casa/Exames anos Anteriores/NOR_2023-01-24/NOR_2023-01-24/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nj57gud63v

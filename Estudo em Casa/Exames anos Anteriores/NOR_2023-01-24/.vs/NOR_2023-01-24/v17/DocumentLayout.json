@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\views\\veiculos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\views\\veiculos\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\views\\proprietarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\views\\proprietarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\controllers\\proprietarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\controllers\\proprietarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|c:\\users\\vitor\\documents\\github\\engenharia-web\\estudo em casa\\exames anos anteriores\\nor_2023-01-24\\nor_2023-01-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317FB7E-D9A2-4F83-8F94-1CCAD695CBAC}|NOR_2023-01-24\\NOR_2023-01-24.csproj|solutionrelative:nor_2023-01-24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Models\\Veiculo.cs",
+              "RelativeToolTip": "NOR_2023-01-24\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:27:33.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Views\\Veiculos\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Views\\Veiculos\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Views\\Veiculos\\Adicionar.cshtml",
+              "RelativeToolTip": "NOR_2023-01-24\\Views\\Veiculos\\Adicionar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T19:25:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Controllers\\VeiculosController.cs",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Controllers\\VeiculosController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "NOR_2023-01-24\\Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T19:23:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Views\\Proprietarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Views\\Proprietarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Views\\Proprietarios\\Details.cshtml",
+              "RelativeToolTip": "NOR_2023-01-24\\Views\\Proprietarios\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T19:22:59.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Program.cs",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Program.cs",
+              "RelativeToolTip": "NOR_2023-01-24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:56:03.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProprietariosController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Controllers\\ProprietariosController.cs",
+              "RelativeDocumentMoniker": "NOR_2023-01-24\\Controllers\\ProprietariosController.cs",
+              "ToolTip": "C:\\Users\\vitor\\Documents\\GitHub\\Engenharia-Web\\Estudo em Casa\\Exames anos Anteriores\\NOR_2023-01-24\\NOR_2023-01-24\\Controllers\\ProprietariosController.cs",
+              "RelativeToolTip": "NOR_2023-01-24\\Controllers\\ProprietariosController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:46:48.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

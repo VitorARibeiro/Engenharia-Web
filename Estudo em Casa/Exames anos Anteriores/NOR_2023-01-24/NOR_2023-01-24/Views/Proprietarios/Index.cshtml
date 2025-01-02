@@ -1,0 +1,27 @@
+﻿   @model IEnumerable<NOR_2023_01_24.Models.Proprietario>
+
+@{
+    ViewData["Title"] = "Registo de Proprietarios";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a href="@Url.Action("Ordena", "Proprietarios")" data-ajax="true" data-ajax-method="GET" data-ajax-update="#proprietariosTable">Nome</a>
+            </th>
+            <th>Nacionalidade</th>
+            <th>Veiculos</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="proprietariosTable">
+        @await Html.PartialAsync("Listagem", Model)
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/lib/jquery-ajax/jquery.unobtrusive-ajax.js"></script>
+}

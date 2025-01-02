@@ -1,0 +1,13 @@
+﻿   @model IEnumerable<NOR_2023_01_24.Models.Proprietario>
+
+@foreach (var proprietario in Model)
+{
+    <tr>
+        <td>@proprietario.Nome</td>
+        <td>@proprietario.Nacionalidade</td>
+        <td>@proprietario.Veiculos.Count()</td>
+        <td>
+            <a asp-action="Details" asp-route-id="@proprietario.Id">Detalhes</a>
+        </td>
+    </tr>
+}

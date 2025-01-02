@@ -1,0 +1,45 @@
+﻿@model IEnumerable<NOR_2022_02_08.Models.Empresa>
+
+@{
+    ViewData["Title"] = "Lista de Empresas";
+}
+
+<h1>Lista de Empresas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Logotipo</th>
+            <th>País</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var empresa in Model)
+        {
+            <tr>
+                <td>@empresa.Nome</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(empresa.Logotipo))
+                    {
+                        <img src="~/Logos/@empresa.Logotipo" alt="Logotipo" style="width: 50px; height: auto;" />
+                    }
+                    else
+                    {
+                        <span>Sem Logotipo</span>
+                    }
+                </td>
+                <td>@empresa.Pais.Nome</td>
+                <td>
+                    <form asp-action="Apagar" method="post" style="display:inline;" onsubmit="return confirm('Tem a certeza que quer remover a empresa?');">
+                        <input type="hidden" name="id" value="@empresa.Id" />
+                        <button type="submit" class="btn btn-danger">X</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Registo" class="btn btn-primary">+</a>
